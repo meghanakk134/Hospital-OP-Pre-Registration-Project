@@ -147,3 +147,5 @@ integration, and production-grade authentication).
 ## 📄 License
 
 Provided as-is for educational and demonstration purposes.
+
+**🌐 [Live Demo](https://hospital-op-pre-registration-project-knb7tm9kiqx27vxk5577af.streamlit.app/)**
